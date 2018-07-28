@@ -6,3 +6,7 @@ function theBeatlesPlay(){
 function johnLennonFacts(facts){
   return facts.map(f => f + '!!!')
 }
+
+function iLoveTheBeatles(){
+  
+}
