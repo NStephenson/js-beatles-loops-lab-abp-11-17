@@ -7,6 +7,10 @@ function johnLennonFacts(facts){
   return facts.map(f => f + '!!!')
 }
 
-function iLoveTheBeatles(){
-  
+function iLoveTheBeatles(n){
+  arr= []
+  while(n < 15){
+    arr.push('I love the Beatles!')
+  }
+  return arr
 }
